@@ -1,33 +1,47 @@
-# Portfolio Website
+# 🌐 Portfolio Website
 
-This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+A modern, responsive **portfolio website** built with **Next.js 13** and **Tailwind CSS**, designed to showcase projects, skills, and experiences in a clean and interactive way.
 
-## Installation
+---
 
-1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+## 🚀 Features
 
-## Usage
+- **Landing Page** with smooth animations (Framer Motion)  
+- **About Me Section** with animated stats (react-animated-numbers)  
+- **Projects Showcase** with detailed cards and descriptions  
+- **Contact Form** powered by **Resend** for sending emails  
+- **Responsive Design** for desktop, tablet, and mobile  
+- **Modern UI/UX** with Tailwind CSS and HeroIcons  
+- **Animations & Typing Effects** using react-type-animation  
 
-1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the website.
+---
 
-## Dependencies
+## 🛠 Tech Stack
 
-The following dependencies are required for this project:
+- **Frontend:** Next.js 13 (App Router), React 18, Tailwind CSS, HeroIcons  
+- **Animations & UI:** Framer Motion, React Animated Numbers, React Type Animation  
+- **Email Integration:** Resend  
+- **Tooling & Workflow:** ESLint, PostCSS, Autoprefixer, Git  
 
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Resend: Resend is the email API for developers.
+---
 
-## License
+## 📸 Screenshots
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
+> Place your screenshots inside a `screenshots/` folder and update the paths below.  
 
-# myPortfolio
-# myPortfolio
-# myPortfolio
+### 🏠 Home Page
+![Landing Page](./screenshots/«Landing01.png)
+
+![About Section](./screenshots/Landing02.png)
+
+---
+
+## ⚡ Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/portfolio-website.git
+cd portfolio-website
+npm install
+
