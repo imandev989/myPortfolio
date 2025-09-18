@@ -30,7 +30,7 @@ A modern, responsive **portfolio website** built with **Next.js 13** and **Tailw
 > Place your screenshots inside a `screenshots/` folder and update the paths below.  
 
 ### 🏠 Home Page
-![Landing Page](../screenshots/«Landing01.png)
+![Landing Page](../screenshots/Landing01.png)
 
 ![About Section](../screenshots/Landing02.png)
 
