@@ -23,7 +23,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Express.js ( Node.js )</li>
-        <li>Django ( Python )</li>
+        <li>Nest.js ( Node.js )</li>
       </ul>
     ),
   },
@@ -55,9 +55,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>TypeScript</li>
-        <li>Restful API, Graphql</li>
+        <li>Restful API</li>
         <li>Redis</li>
-        <li>WebSockek, WebRTC</li>
+        <li>WebSockek</li>
         <li>Git</li>
         <li>Docker</li>
         <li>Linux</li>
@@ -88,19 +88,15 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg ">
-            {/* I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications. */}
-            I am a full stack web developer with experience in JavaScript,
-            React, Redux Toolkit, RTK Query, Tailwind CSS, Radix UI, ShadCn,
-            Node.js, Express, MongoDB, Redis,MySQL, PostgreSQL, React Query,
-            Zustand, Sequelize, HTML, CSS,Python.Django and Git. I’m passionate
-            about creating interactive and responsive web applications, always
-            eager to learn and expand my skill set. As a team player, I’m
-            excited to collaborate with others to build amazing applications.
+            I am a Frontend Developer specializing in React and Next.js. My main
+            focus is creating modern, responsive, and user-friendly web
+            applications. In addition to my frontend expertise, I also have
+            experience working with: - **Backend Development:** Node.js,
+            Express, NestJS, MongoDB, PostgreSQL - **Mobile Development:**
+            Flutter (Cross-Platform) - **Other Skills:** Linux System
+            Administration, Git, Agile workflows I am always eager to learn new
+            technologies and collaborate with teams to build high-quality
+            applications.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

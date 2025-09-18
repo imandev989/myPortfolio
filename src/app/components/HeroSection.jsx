@@ -24,11 +24,13 @@ const HeroSection = () => {
               sequence={[
                 "Iman",
                 1000,
-                "Web Developer",
+                "Frontend Developer (React & Next.js)",
                 1000,
-                "Flutter Developer",
+                "Experienced with Backend (Node.js & NestJS)",
                 1000,
-                "Linux SysAdmin",
+                "Worked on Mobile Apps (Flutter)",
+                1000,
+                "Linux System Administration",
                 1000,
               ]}
               wrapper="span"
@@ -37,7 +39,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I Am MERN Stack Developer,Mobile Cross Platform Developer and Linux SysAdmin
+            I am a Frontend Developer (React & Next.js) with experience in
+            Backend (Express & Nest.js), Cross-Platform Mobile Development
+            (Flutter), and Linux System Administration (LPIC1).
           </p>
           <div>
             <Link
